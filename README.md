@@ -9,13 +9,14 @@
 
 ## How to Run
 
-You should be able to run the game with npm start from your terminal.
+First, either download or clone this hangShrek repository.
 
-Please install React Bootstrap with 
+Go to your terminal and cd to the 'hangman' folder. 
+
+Once you are in the hangman folder type
 ### `npm install react-bootstrap`
 
 then start the application with
 ### `npm start`
 
-Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
