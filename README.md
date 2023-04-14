@@ -1,7 +1,7 @@
 ## HangShrek Hangman
 It is a version of the popular game 'hangman' with Shrek as the protagonist.
 
-##Contents
+## Contents
 
 <ol>
 <li><a href="##Project Description">Project Description</a></li>
@@ -35,11 +35,11 @@ You can hover over 'Help' on the left hand side to check the rules. The gane out
 
 ## How to Run
 
-1. Download or clone this hangShrek repository.
+- Download or clone this hangShrek repository.
 
-2. Go to your terminal and cd to the 'hangman' folder. 
+- Go to your terminal and cd to the 'hangman' folder. 
 
-3. Once you are in the hangman folder start the application with
+- Once you are in the hangman folder start the application with:
 ### `npm start`
 All required packages will be downloaded at this point, and you shouldn't need to download any other dependencies.
 
